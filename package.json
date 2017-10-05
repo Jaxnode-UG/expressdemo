@@ -1,0 +1,12 @@
+{
+  "name": "expressdemo",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "server.js",
+  "repository": "https://github.com/jaxnode/expressdemo.git",
+  "author": "David Fekke <david@fekke.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
